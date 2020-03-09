@@ -1,0 +1,33 @@
+# Site Info
+title: ""
+tagline: ""
+description: ""
+baseurl: ""
+url: https://DS.html
+logo: ""
+
+# Site configurations
+#gems:
+#  - jekyll-paginate
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+#excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+#paginate:
+#paginate_path: ''
+#permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Hyelim Lee
+  description: Hyelim Lee
+  contact:
+    github:    https://github.com/leehyelim0691
+    email:    mailto:21800607@handong.edu
+
+google_analytics_id: UA-159938300-1
